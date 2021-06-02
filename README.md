@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel Tam
 - 👀 I’m interested in game development and automation with Python!
-- 🌱 I’m currently learning game development with Unity + C#.
+- 🌱 I’m currently learning game development with Pygame.
 - 💞️ Currently not looking to collaborate with others but fine with making friends :D
