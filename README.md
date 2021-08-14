@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Daniel Tam
-- 👀 I’m interested in game development and automation with Python!
-- 🌱 I’m currently learning game development with Pygame.
-- 💞️ Currently not looking to collaborate with others but fine with making friends :D
+- Hi, I'm Daniel Tam!
+- Languages: Python, C#, Java
+- Preferred Editor(s): Vim, VS Code or any other IDE/text editor with a Vim shortcut plugin
+- Experience: 1 year 
+- Interests: Game Development
+- Long-Term Aspirations: Game Engine Development, Software Development
+- Job Aspiration: Software Engineer or AI Engineer (also hobbyist game developer)
+- Current Field Being Learned: Web Development
+PS. I'm also a turtle.
