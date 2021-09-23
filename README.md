@@ -5,6 +5,6 @@
 - ❤️ Interests: Game Development
 - 🥅 Long-Term Aspirations: Game Engine Development, Software Development
 - 🎯 Job Aspiration: Software Engineer or AI Engineer (also hobbyist game developer)
-- 🤓 Current Field Being Learned: Web Development
+- 🤓 Current Field Being Learned: App Development
 
 PS. I'm also a turtle.
