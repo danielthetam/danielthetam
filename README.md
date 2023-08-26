@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Daniel Tam!
 - 🔢 Coding Languages: Python, C#, Java, Luau, HTML, CSS
-- 📝 Preferred Editor(s): Vim, VS Code or any other IDE/text editor with a Vim shortcut plugin
+- 📝 Preferred Editor(s): Vim, VS Code or any specialised IDE that makes it easier to work with a language. 
 - ⏰ First Started Coding: 2020 July
 - ❤️ Interests: Game Development
 - 🥅 Long-Term Aspirations: Game Engine Development, Software Development
