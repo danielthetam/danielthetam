@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Daniel Tam!
+# 👋 Hi, I'm Daniel Tam!
 ### 🔢 Relatively Proficient In: 
 * Python
 * Java
