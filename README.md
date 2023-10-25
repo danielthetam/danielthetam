@@ -13,6 +13,6 @@
 * Any specialised IDE that makes it easier to work with a language. 
 ### ⏰ First Started Coding
 * 2020 July
-### Read more on [my website](https://danieltam.com/)
+### [Read more on my website...](https://danieltam.com/)
 
 > I'm also a turtle.
