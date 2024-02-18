@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Daniel Tam!
+Treading the path towards Computer Science.
 ### 🔢 Relatively Proficient In: 
 * Python
 * Java
